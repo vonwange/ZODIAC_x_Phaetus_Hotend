@@ -1,3 +1,4 @@
 # Authors
-Afterburner BMO/BMS -> https://github.com/meteyou
+AB-BN BMO/BMS -> https://github.com/meteyou
+Standard Afterburner -> coming soon
 
